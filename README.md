@@ -5,3 +5,4 @@
 testando alterações, pois a última mudança já foi efetuado o commit e talvez esse seja o motivo pelo qual não é possível restaurar o que já foi salvo. Na verdade o problema não foi o commit, é que a versão do git que não possui o comando restore.
 * comando git pull:
 Alterações estão sendo feitas no respositório remote para testar o comando git pull.
+* comando git restore funcionando agora na versão do git.
